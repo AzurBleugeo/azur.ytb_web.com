@@ -1,0 +1,25 @@
+img{
+border-radius: 50px;
+border: solid 5px;
+}
+.img_pinkin{
+    margin-top: 40px;
+    margin-left: 1400px;
+}
+body{
+    background: linear-gradient(to right, yellow, red),
+    url("./IMAGE/fire_.jpg");
+    background-blend-mode: overlay;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.boutton_feu{
+    margin-top: -50px;
+    margin-left: 1390px;
+}
+
+.vid_{
+    margin-right: 5000px;
+    margin-top: 50px;
+}

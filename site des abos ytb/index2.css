@@ -1,0 +1,25 @@
+img{
+border-radius: 50px;
+border: solid 5px;
+}
+.img_pinkin{
+    margin-top: 40px;
+    margin-left: 1400px;
+}
+body{
+    background: linear-gradient(to right, rgb(98, 212, 241), rgb(0, 30, 255)),
+    url("./IMAGE/water.jpg");
+    background-blend-mode: overlay;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.boutton_eau{
+    margin-top: -50px;
+    margin-left: 1390px;
+}
+
+.vid_{
+    margin-right: 5000px;
+    margin-top: 50px;
+}
